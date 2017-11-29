@@ -1,0 +1,56 @@
+.panel-heading {
+  background:#3498db;
+}
+.panel-heading h3{
+  color:#fff;
+}
+.breadcrumb{
+  background:#3498db;
+}
+.breadcrumb li.active{
+  color:#fff;
+}
+.navbar {
+  background:#3498db;
+  color:#fff;
+}
+a.active{
+  color:#fff;
+}
+.lg{
+  background:#3498db;
+  padding-bottom: 10px;
+}
+.btn-add{
+  background:#3498db;
+  color:#fff;
+}
+.modal-header{
+  background:#3498db;
+  color:#fff;
+}
+.produk{
+  width:50px;
+  height:50px;
+}
+footer.container-fluid{
+  background:#3498db;
+}
+.panel-body img{
+  width: 230px;
+  height: 200px;
+}
+/* Container holding the image and the text */
+.img {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Centered text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color:red;
+}
